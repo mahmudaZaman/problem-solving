@@ -1,0 +1,25 @@
+{
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "description": "I do problem solving from various places like leetcode,g4g,carrer-cup,hacker-rank,interview-bit etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --require babel-core/register ",
+    "start": "node --require babel-core/register index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmudaZaman/problem-solving.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmudaZaman/problem-solving/issues"
+  },
+  "homepage": "https://github.com/mahmudaZaman/problem-solving#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0"
+  }
+}
